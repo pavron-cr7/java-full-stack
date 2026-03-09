@@ -1,0 +1,35 @@
+p{                /*element selector*/
+    color:brown;
+    text-align:center;
+    background-color:lightblue;
+    border:solid ;
+    font-style:italic;
+    font-size:30px;
+    font: weight 600px;
+    
+}
+#para2{
+    color:lightgray;
+    background-color:blue;
+    text-align: right;
+}
+.para3{
+    color:violet;
+    background-color:lightpink;
+    text-align: right;
+}
+p.para4{
+    color:red;
+    text-align:center;
+}
+p.para5{
+    font-size:20px;
+}
+*{
+    color:violet;
+    text-align: right;
+}
+h1,h2,h3{
+    color:brown;
+    text-align: right;
+}
