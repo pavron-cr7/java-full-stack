@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #6a95d4;
+}
+#form-title{
+    text-align: center;
+    color: #d126ba;
+}
+.container{
+    width: 350px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #e6c3d8;
+    border-radius: 8px;
+}
+input,select{
+    width: 95%;
+    padding: 8px;
+    margin-top: 5px;
+}
+label{
+    font-weight: bold;
+}
+.gender-options input{
+    width: auto;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 70px;
+    border: none;
+    background-color: #711edd;
+    color: white;
+    cursor: pointer;
+}
